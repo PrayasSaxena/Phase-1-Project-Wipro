@@ -1,0 +1,41 @@
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.exe
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.deps.json
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.runtimeconfig.json
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.runtimeconfig.dev.json
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.dll
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.pdb
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.AssemblyInfoInputs.cache
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.AssemblyInfo.cs
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.csproj.CoreCompileInputs.cache
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.dll
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.pdb
+C:\Users\artyf\source\repos\wipro-velocity\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.genruntimeconfig.cache
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.exe
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.deps.json
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.runtimeconfig.json
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.dll
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.pdb
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.AssemblyInfo.cs
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.dll
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.pdb
+C:\Users\HP\Desktop\Phase1 Project\phase1-project\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.genruntimeconfig.cache
+D:\Wipro\project 1\Phase12\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.exe
+D:\Wipro\project 1\Phase12\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.deps.json
+D:\Wipro\project 1\Phase12\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.runtimeconfig.json
+D:\Wipro\project 1\Phase12\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.runtimeconfig.dev.json
+D:\Wipro\project 1\Phase12\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.dll
+D:\Wipro\project 1\Phase12\TeachersData\bin\Debug\netcoreapp3.1\TeachersData.pdb
+D:\Wipro\project 1\Phase12\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.csproj.AssemblyReference.cache
+D:\Wipro\project 1\Phase12\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\project 1\Phase12\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.AssemblyInfoInputs.cache
+D:\Wipro\project 1\Phase12\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.AssemblyInfo.cs
+D:\Wipro\project 1\Phase12\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.csproj.CoreCompileInputs.cache
+D:\Wipro\project 1\Phase12\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.dll
+D:\Wipro\project 1\Phase12\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.pdb
+D:\Wipro\project 1\Phase12\TeachersData\obj\Debug\netcoreapp3.1\TeachersData.genruntimeconfig.cache
